@@ -1,0 +1,13 @@
+D:\Documents\GitHub\BulkHtmlEmailSender\BulkHtmlEmailSender\bin\Debug\netcoreapp3.1\BulkHtmlEmailSender.exe
+D:\Documents\GitHub\BulkHtmlEmailSender\BulkHtmlEmailSender\bin\Debug\netcoreapp3.1\BulkHtmlEmailSender.deps.json
+D:\Documents\GitHub\BulkHtmlEmailSender\BulkHtmlEmailSender\bin\Debug\netcoreapp3.1\BulkHtmlEmailSender.runtimeconfig.json
+D:\Documents\GitHub\BulkHtmlEmailSender\BulkHtmlEmailSender\bin\Debug\netcoreapp3.1\BulkHtmlEmailSender.runtimeconfig.dev.json
+D:\Documents\GitHub\BulkHtmlEmailSender\BulkHtmlEmailSender\bin\Debug\netcoreapp3.1\BulkHtmlEmailSender.dll
+D:\Documents\GitHub\BulkHtmlEmailSender\BulkHtmlEmailSender\bin\Debug\netcoreapp3.1\BulkHtmlEmailSender.pdb
+D:\Documents\GitHub\BulkHtmlEmailSender\BulkHtmlEmailSender\obj\Debug\netcoreapp3.1\BulkHtmlEmailSender.csprojAssemblyReference.cache
+D:\Documents\GitHub\BulkHtmlEmailSender\BulkHtmlEmailSender\obj\Debug\netcoreapp3.1\BulkHtmlEmailSender.AssemblyInfoInputs.cache
+D:\Documents\GitHub\BulkHtmlEmailSender\BulkHtmlEmailSender\obj\Debug\netcoreapp3.1\BulkHtmlEmailSender.AssemblyInfo.cs
+D:\Documents\GitHub\BulkHtmlEmailSender\BulkHtmlEmailSender\obj\Debug\netcoreapp3.1\BulkHtmlEmailSender.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\BulkHtmlEmailSender\BulkHtmlEmailSender\obj\Debug\netcoreapp3.1\BulkHtmlEmailSender.dll
+D:\Documents\GitHub\BulkHtmlEmailSender\BulkHtmlEmailSender\obj\Debug\netcoreapp3.1\BulkHtmlEmailSender.pdb
+D:\Documents\GitHub\BulkHtmlEmailSender\BulkHtmlEmailSender\obj\Debug\netcoreapp3.1\BulkHtmlEmailSender.genruntimeconfig.cache
